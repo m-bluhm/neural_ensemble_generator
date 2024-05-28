@@ -1,0 +1,1 @@
+A project to simulate neural ensembles using a leaky integrate and fire model in order to verify the efficacy of a MATLAB-based neural ensemble detector codebase. See the ReadMe.docx for more information.
